@@ -1,0 +1,31 @@
+.background1{
+    border:1px solid;
+    padding: 20px; 
+    border-color:black ;
+    margin-left: -19px;
+    margin-right: 700px;
+    width:350px;    
+}
+input{
+  padding: 10px;
+  width: 300px;
+}
+.sign{
+    font-size: 20px;
+   margin-left: 130px;
+}
+.login{
+    background-color:green;
+    width: 325px;
+    color: white;
+}
+p{
+    font-size: 10px;
+    margin-left: 100px;    
+}
+.account{
+    margin-left: 80px;
+}
+#email{
+    border-color: green;
+}

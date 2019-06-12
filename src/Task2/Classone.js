@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import Funone from './Funone';
+import Classtwo from './Classtwo';
+import Classthree from './Classthree';
+
 
 class Classone extends Component {
     render() {
@@ -9,6 +12,8 @@ class Classone extends Component {
              <Funone age="20">abc</Funone>
              <Funone age="30">xyz</Funone> 
              <Funone age="40">pqr</Funone>  
+             <Classtwo/>
+             <Classthree/>
             </div>
         )
     }

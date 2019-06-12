@@ -18,9 +18,9 @@ function Signup() {
           <label>Confirmation</label><br/>
           <input type="text"  name="name" className="cname"></input><br/><br/>
           <input type="button" value="Create my account" name="Create my account" className="button"></input>
-          <Signin/>
+         
       </form>
-    
+      <Signin/>
     </div>
   );
 }

@@ -15,7 +15,7 @@ input{
    margin-left: 130px;
 }
 .login{
-    background-color:green;
+    background-color:#45c65f;
     width: 325px;
     color: white;
 }
@@ -27,5 +27,5 @@ p{
     margin-left: 80px;
 }
 #email{
-    border-color: green;
+    border-color: #45c65f;
 }

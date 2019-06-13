@@ -1,0 +1,22 @@
+.align{
+    margin-left: 500px;
+    width: 200px;
+    text-align: center;
+    background: linear-gradient(white,black);
+}
+.aligna{
+    margin-left: 580px;
+    
+}
+.alignc{
+    margin-left: 500px;
+    margin-top: 80px;
+    width: 200px;
+    background: linear-gradient(white,black);
+}
+.alignb{
+    width: 80px;
+    margin-left: 580px;
+    background-color:burlywood;
+    border-radius: 20px;
+}

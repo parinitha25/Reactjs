@@ -5,6 +5,7 @@ import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 import Classone from './Task2/Classone';
 import Signup from './Task1/Signup';
 import Airthmetic from './Task3/Airthmetic';
+import Input from './Task4/Input';
 
   class App extends Component{
     render(){
@@ -14,6 +15,7 @@ import Airthmetic from './Task3/Airthmetic';
       <Route exact path='/task1' component={Signup}></Route>
       <Route exact path='/task2' component={Classone}></Route>
       <Route exact path='/task3' component={Airthmetic}></Route>
+      <Route exact path='/task4' component={Input}></Route>
       </Switch>
       </Router>
    

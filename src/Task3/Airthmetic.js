@@ -25,12 +25,12 @@ subfun=()=>{
    render(){
         return( 
         <div>
-             <b>{this.state.add}</b>
-             <b>{this.state.sub}</b>
-             <b>{this.state.mul}</b><br/>
-        <input type="button" onClick={this.addfun} value="addition"></input>
-        <input type="button" onClick={this.subfun} value="subtraction"></input>
-        <input type="button" onClick={this.mulfun} value="multification"></input>
+           <br/><b className="font" >{this.state.add}</b>
+                <b className="fonta">{this.state.sub}</b>
+                <b className="fontb">{this.state.mul}</b><br/>
+        <input type="button" onClick={this.addfun} value="Addition" className="add"></input>
+        <input type="button" onClick={this.subfun} value="Subtraction" className="sub"></input>
+        <input type="button" onClick={this.mulfun} value="Multification" className="mul"></input>
        
      </div>
        

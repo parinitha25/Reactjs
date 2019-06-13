@@ -1,3 +1,27 @@
-b{
-    margin-right:140px;
+.font{
+    margin-left:150px;
+    font-size: 20px;
+
+}
+.fonta{
+    margin-left: 290px;
+    font-size: 20px;
+}
+.fontb{
+    margin-left: 300px;
+    font-size: 20px;
+}
+.add{
+    margin-top: 50px;
+    background-color: gray;    
+}
+.sub{
+    margin-top: 50px;    
+    margin-left: 20px;
+    background-color: gray;
+}
+.mul{
+    margin-top: 50px; 
+    margin-left: 20px;
+    background-color: gray;  
 }
